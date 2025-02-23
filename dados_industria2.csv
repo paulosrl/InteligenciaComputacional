@@ -1,0 +1,11 @@
+Setor,Horas_Trabalhadas,Volume_Produzido,Defeitos,Lucro
+Metalurgia,40,500,5,20000
+Alimentos,35,450,2,18000
+Têxtil,30,420,4,15000
+Automotivo,45,550,3,22000
+Químico,50,600,6,25000
+Farmacêutico,38,470,4,21000
+Eletrônicos,42,530,3,23000
+Construção,34,420,5,17000
+Energia,48,610,7,26000
+Papel,37,480,5,19000
