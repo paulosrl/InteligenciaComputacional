@@ -1,5 +1,5 @@
 Filial,Produto,Volume_Produzido,Defeitos
 São Paulo,A,1000,10
 Rio de Janeiro,B,1500,20
-Belo Horizonte,C,,20
+Belo Horizonte,C,0,20
 ,,,20
