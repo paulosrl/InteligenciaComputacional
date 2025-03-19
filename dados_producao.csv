@@ -1,7 +1,4 @@
-Produto,Produção,Turno,Defeitos
-A,130.0,Manhã,8.0
-B,95.0,Tarde,3.0
-C,90.0,Noite,4.0
-D,110.0,Manhã,7.0
-E,100.0,Tarde,2.0
-F,80.0,Noite,3.0
+Produto,Volume_Produzido
+A,100
+B,150
+C,200
